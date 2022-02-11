@@ -59,14 +59,6 @@ topics:
     theory_id: 5900
   - title: Boolean logic
     theory_id: 6025
-  - title: Comparisons
-    theory_id: 5920
-  - title: Dictionary
-    theory_id: 6481
-  - title: Arguments
-    theory_id: 7248
-  - title: Dictionary methods
-    theory_id: 9008
   1:
   - title: Load module
     theory_id: 6019

@@ -67,8 +67,7 @@ feedback:
 
     ---
 
-    Enter the number of friends joining (including you):
-    > 5
+    Enter the number of friends joining (including you):> 5
 
     Enter the name of every friend (including you), each on a new line:
     > Marc
@@ -77,13 +76,12 @@ feedback:
     > Anna
     > Jason
 
-    Enter the total bill value:
-    > 100
+    Enter the total bill value:> 100
 
-    Do you want to use the "Who is lucky?" feature? Write Yes/No:
-    > Yes
-    Jason is the lucky one!
+    Do you want to use the "Who is lucky?" feature? Write Yes/No:> Yes
 
-    {'Marc': 25.0, 'Jem': 25.0, 'Monica': 25.0, 'Anna': 25.0, 'Jason': 0}
-  time: Fri, 11 Feb 2022 14:33:14 UTC
+    Monica is the lucky one!
+
+    {'Marc': 25.0, 'Jem': 25.0, 'Monica': 0.0, 'Anna': 25.0, 'Jason': 25.0}
+  time: Fri, 11 Feb 2022 16:30:46 UTC
 record: 3
